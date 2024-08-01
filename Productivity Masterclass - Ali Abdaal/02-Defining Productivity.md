@@ -5,14 +5,16 @@ When the industrial revolution started productivity was the amount of product a 
 $$
  Productivity = Total\;product / Time\;taken
 $$
-In our time,  productivity is measured by how many items can you check off of your todo list or how many emails can you respond to in a working day.
+
+In our time,  productivity is measured by how many items can you check off of your to-do list or how many emails can you respond to in a working day.
+
 ## Productivity Equation
 Modern productivity can be explained by a simple equation, this equation counts productivity as work that is actually useful to the individual or company and not the work we do to get out of our actual responsibilities.
 
 The more "useful output" we can generate in the least amount of time is the amount of "productive work" that we did in a day.
 
 $$
- Produciivity = \frac{Useful\;output}{Time\;taken}
+ Productivity = \frac{Useful\;output}{Time\;taken}
 $$
 
 ## The Fun Factor
