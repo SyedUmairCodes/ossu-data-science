@@ -1,0 +1,1 @@
+The Zen of Python are philosophical principles written by Tim Peters that the Python community follows when writing Python code. Following these principles makes your code pythonic

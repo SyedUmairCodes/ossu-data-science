@@ -1,0 +1,3 @@
+Scalability is the ability of a system to improve on it's self to support the new requirements or increase in users. If the concurrent users of your application grow from 10k to 10M then you'll need to improve the code that handles all of the users and also increase the servers on which the application is hosted on.
+
+Increase in users means increase in the requests sent from your application to the database, web server, and the cache. This increase also requires you to configure your whole back-end system to handle the new users.

@@ -1,0 +1,1 @@
+Data structures are ways to store and organize data for easier and quicker access for modifications. There isn't a single data structure that can work like a jack of all trades so it's recommended to know the pros and cons of each of them before picking one.
