@@ -1,0 +1,3 @@
+Don't waste your time on deciding how many pixels should the margin and padding of an element be. Decide these values beforehand and limit yourself to only use them as they won't create any inconsistencies in your design.
+
+A simple approach is to start with a sensible base value, then build a scale using factors and multiples of that value. 16 pixels is a great number to start with because it divides nicely, and also happens to be the default font size in every major web browser.

@@ -1,0 +1,3 @@
+There are a ton of features that you can add in your product whether you want to include them or not. In the start, add only the necessary and core components and then listen to the user feedback about which features they need and how they need it in your product and then design them and add them.
+
+Doing so will make your product lean and will make the user happy as well as you're only shipping the features that they need and not unnecessary features that will make users want to leave your product.

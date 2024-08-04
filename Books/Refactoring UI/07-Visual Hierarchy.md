@@ -1,0 +1,3 @@
+Establishing a proper hierarchical structure of the content inside your design is what makes the user pay attention to your product. The content that you want to the user to pay attention to first has to be visible and easily recognizable at the very beginning of your product's description or landing page or entry point.
+
+> In order to catch the users attention the elements in your design will need clean styling + good visual hierarchy to stand out.
