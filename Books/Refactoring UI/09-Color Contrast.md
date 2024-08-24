@@ -1,3 +1,0 @@
-If your using light-mode then the background and images should have a light colored background and vice versa. Color contrast helps a lot especially when you're trying to make sure that your designs are accessible to everyone.
-
-Using grey text on a background that is an image or has a pattern is not recommended because if the text is too transparent it will make the pattern see through and this will affect users in reading the text.

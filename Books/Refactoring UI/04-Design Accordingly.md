@@ -1,5 +1,0 @@
-The vibe of your designs should be according to the main user demographic. If you're making a corporate or finance product then the vibe should be more professional looking with simple colors and fonts and to the point components that make the design look inline with the company or business.
-
-On the other hand, a product for a startup or a product that focuses on the youth will have a totally different vibe to it. It will have wild design, large-size typography, animations, fun-little interactions, and other interactive elements that catch the attention of the viewer.
-
-The corners of elements such as buttons also fall into this. A square button with sharp corners would fit better in a corporate design and a button with rounded and soft corners or even a pill-shape would fit better in a product that's made for general users.
