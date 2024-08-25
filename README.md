@@ -50,7 +50,7 @@ This repository contains all of notes or links to them that I took while taking 
 
 # Extra curricular
 
-- User experience design
-- Clean Code
+- [User experience design](https://syedumaircodes.craft.me/7WyZp7DmJ6NOwT)
+- [Clean Code](./notes/Clean-code/Chapter-1.md)
 
 # Projects
