@@ -18,7 +18,7 @@ This repository contains all of notes or links to them that I took while taking 
 # Data Structures and Algorithms
 
 - Java MOOC
-- Introduction to Algorithms - Book
+- [Introduction to Algorithms - Book]("./notes/Introduction-to-algorithms/Chapter-1.md)
 - Data Structures and Alogrithms in Java - FCC
 - Algorithms 1
 - Algorithms 2
