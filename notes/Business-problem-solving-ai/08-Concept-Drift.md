@@ -1,0 +1,3 @@
+Machine learning models can become less effective over time due to concept drift, which is when the relationship between the input data and the target variable changes. This can happen because the underlying data changes or because the model is not updated regularly.
+
+> Transfer learning is a technique that can be used to improve the performance of new models by building on the knowledge of previous models.

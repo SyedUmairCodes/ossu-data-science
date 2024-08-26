@@ -42,7 +42,9 @@ This repository contains all of notes or links to them that I took while taking 
 
 # Data Science Tools
 
-# Machine Learning
+# Machine Learning and AI
+
+- [Business problem solving with AI](/notes/Business-problem-solving-ai/01-Data-hierarchy.md)
 
 # Cloud Computing
 

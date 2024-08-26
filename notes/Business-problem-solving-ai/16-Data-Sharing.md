@@ -1,0 +1,3 @@
+Researchers must be mindful of privacy concerns when sharing datasets on open-source platforms. Data anonymization techniques, such as replacement, suppression, generalization, and perturbation, can be employed to protect sensitive information.
+
+Researchers should also consider the potential for bias or misrepresentation in the data they share. When anonymizing data, researchers should ensure that the masking process is irreversible, produces consistent results, and preserves data integrity.
